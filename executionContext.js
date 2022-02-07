@@ -2,7 +2,7 @@
 //console.log(global);
 //console.log(this);
 
-// var a = 20;
+var a = 20;
 
 // function fn(){
 //     var a = 30;
