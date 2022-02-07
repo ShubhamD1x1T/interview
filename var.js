@@ -1,6 +1,6 @@
 // var a;
 // a = 1;
-// console.log(a);
+console.log(a);
 // a =12;
 // console.log(a);
 // var a = 30;
